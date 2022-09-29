@@ -1,8 +1,8 @@
 # java版 设计模式
 ## 1. 创建型设计模式 Create Patterns
-- 1 简单工厂模式 (Simple Factory)
-- 2 抽象工厂模式 (Abstract Factory)
-- 3 工厂方法模式 (Factory Method)
+- 1 [简单工厂模式 (Simple Factory)](src/com/example/create/factory/README.md)
+- 2 [抽象工厂模式 (Abstract Factory)](src/com/example/create/factory/README.md)
+- 3 [工厂方法模式 (Factory Method)](src/com/example/create/factory/README.md)
 - 4 单例模式 (Singleton)
 - 5 原型模式 (Prototype)
 - 6 构建器模式 (Builder)
