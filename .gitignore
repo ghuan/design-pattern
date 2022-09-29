@@ -1,0 +1,51 @@
+# Created by .ignore support plugin (hsz.mobi)
+### Java template
+# Compiled class file
+*.class
+# Log file
+*.log
+# BlueJ files
+*.ctxt
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+# Package Files #
+*.jar
+*.war
+*.nar
+*.earsample-info
+*.zip
+*.tar.gz
+*.rar
+hs_err_pid*
+*/target
+*.iml
+.idea
+target/
+.project
+.settings/
+.classpath
+*/logs
+/.idea/
+.DS_Store
+/.DS_Store/
+doc/
+/hsp-platform-manage/src/test/
+/hsp-lis/src/main/resources/bootstrap-wyl.yml
+/hsp-credit/src/main/resources/bootstrap-wyl.yml
+/hsp-outpatient-department/src/main/resources/bootstrap-wyl.yml
+/hsp-peis/src/main/resources/bootstrap-wyl.yml
+/**/src/main/resources/rebel.xml
+/**/src/main/resources/rebel-remote.xml
+/**/.rebel.xml.bak
+/**/.rebel-remote.xml.bak
+/hsp-platform-manage/src/main/resources/bootstrap-wyl.yml
+/hsp-dict/src/main/resources/bootstrap-wyl.yml
+/hsp-gateway/src/main/resources/bootstrap-wyl.yml
+/hsp-depot/src/main/resources/bootstrap-wyl.yml
+/hsp-payment/src/main/resources/bootstrap-wyl.yml
+/hsp-drugstore/src/main/resources/bootstrap-wyl.yml
+/hsp-webapi/src/main/resources/bootstrap-wyl.yml
+/hsp-medicare/src/main/resources/bootstrap-wyl.yml
+/hsp-inpatient/src/main/resources/bootstrap-wyl.yml
+/hsp-dict/json/
+/.idea/httpRequests/
