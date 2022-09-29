@@ -1,0 +1,14 @@
+# java版 设计模式
+## 1. 创建型设计模式 Create Patterns
+- 1 简单工厂模式 (Simple Factory)
+- 2 抽象工厂模式 (Abstract Factory)
+- 3 工厂方法模式 (Factory Method)
+- 4 单例模式 (Singleton)
+- 5 原型模式 (Prototype)
+- 6 构建器模式 (Builder)
+## 2. 结构型设计模式 Structural Patterns
+- 7 外观模式 (Facade)
+- 待续
+## 3. 行为型设计模式 Behavioral Patterns
+
+
