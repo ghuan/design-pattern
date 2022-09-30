@@ -8,6 +8,7 @@
 - 6 [构建器模式 (Builder)](src/com/example/create/builder/README.md)
 ## 2. 结构型设计模式 Structural Patterns
 - 7 [外观模式 (Facade)](src/com/example/structural/facade/README.md)
+- 8 [组合模式 (Composite)](src/com/example/structural/composite/README.md)
 - 待续
 ## 3. 行为型设计模式 Behavioral Patterns
 
