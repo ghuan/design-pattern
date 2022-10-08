@@ -12,6 +12,7 @@
 - 9.&nbsp;&nbsp;[装饰器模式 (Decorator)](src/com/example/structural/decorator/README.md)
 - 10.[适配器模式 (Adapter)](src/com/example/structural/adapter/README.md)
 - 11.[享元模式 (Flyweight)](src/com/example/structural/flyweight/README.md)
+- 12.[代理模式 (Proxy)](src/com/example/structural/proxy/README.md)
 - 待续
 ## 3. 行为型设计模式 Behavioral Patterns
 
