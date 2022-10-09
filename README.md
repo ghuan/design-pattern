@@ -17,6 +17,7 @@
 ## 3. 行为型设计模式 Behavioral Patterns
 - 14.[模板方法模式 (Template Method Pattern)](src/com/example/behavior/template/README.md)
 - 15.[迭代器模式 (Iterator Pattern)](src/com/example/behavior/iterator/README.md)
+- 16.[责任链模式 (Chain of Responsibility Pattern)](src/com/example/behavior/responsibility/README.md)
 - 待续
 
 
