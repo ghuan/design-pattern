@@ -3,8 +3,8 @@ package com.example.create.prototype;
 import com.example.create.prototype.bean.Car;
 import com.example.create.prototype.enums.CarTypeEnum;
 
-import java.util.Hashtable;
 import java.util.Map;
+import java.util.concurrent.ConcurrentHashMap;
 
 /**
  * 原型模式工厂类
@@ -13,7 +13,7 @@ import java.util.Map;
  * @date 2022/ 09/27 10:32:12
  */
 public class PrototypeFactory {
-    private static Map<String, Car> cache = new Hashtable<>();
+    private static Map<String, Car> cache = new ConcurrentHashMap<>();
     private static Car getCarInstance(CarTypeEnum carTypeEnum){
         if(!cache.containsKey(carTypeEnum.getTypeCode())){
             try {
