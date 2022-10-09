@@ -7,14 +7,15 @@
 - 5.&nbsp;&nbsp;[原型模式 (Prototype Pattern)](src/com/example/create/prototype/README.md)
 - 6.&nbsp;&nbsp;[构建器模式 (Builder Pattern)](src/com/example/create/builder/README.md)
 ## 2. 结构型设计模式 Structural Patterns
-- 7.&nbsp;&nbsp;[外观模式 (Facade Pattern)](src/com/example/structural/facade/README.md)
-- 8.&nbsp;&nbsp;[组合模式 (Composite Pattern)](src/com/example/structural/composite/README.md)
-- 9.&nbsp;&nbsp;[装饰器模式 (Decorator Pattern)](src/com/example/structural/decorator/README.md)
-- 10.[适配器模式 (Adapter Pattern)](src/com/example/structural/adapter/README.md)
-- 11.[享元模式 (Flyweight Pattern)](src/com/example/structural/flyweight/README.md)
-- 12.[代理模式 (Proxy Pattern)](src/com/example/structural/proxy/README.md)
-- 13.[桥接模式 (Bridge Pattern)](src/com/example/structural/bridge/README.md)
-- 待续
+- 7.&nbsp;&nbsp;[外观模式 (Facade Pattern)](src/com/example/structure/facade/README.md)
+- 8.&nbsp;&nbsp;[组合模式 (Composite Pattern)](src/com/example/structure/composite/README.md)
+- 9.&nbsp;&nbsp;[装饰器模式 (Decorator Pattern)](src/com/example/structure/decorator/README.md)
+- 10.[适配器模式 (Adapter Pattern)](src/com/example/structure/adapter/README.md)
+- 11.[享元模式 (Flyweight Pattern)](src/com/example/structure/flyweight/README.md)
+- 12.[代理模式 (Proxy Pattern)](src/com/example/structure/proxy/README.md)
+- 13.[桥接模式 (Bridge Pattern)](src/com/example/structure/bridge/README.md)
 ## 3. 行为型设计模式 Behavioral Patterns
+- 14.[模板方法模式 (Template Method Pattern)](src/com/example/behavior/template/README.md)
+- 待续
 
 
