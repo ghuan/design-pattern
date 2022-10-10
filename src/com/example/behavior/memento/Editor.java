@@ -45,7 +45,7 @@ public class Editor {
     public void undo(){
         if(histories.size() > 0){
             if(historyIndex > 0){
-                this.doc.setContent(histories.get(historyIndex - 1).getContent());
+                this.doc.restoreHistory(histories.get(historyIndex - 1));
                 historyIndex--;
             }else {
                 this.doc.getContent().clear();
@@ -55,7 +55,7 @@ public class Editor {
     }
     public void redo(){
         if(histories.size() > 0 && historyIndex < histories.size() - 1){
-            this.doc.setContent(histories.get(historyIndex+1).getContent());
+            this.doc.restoreHistory(histories.get(historyIndex+1));
             historyIndex++;
         }
     }
