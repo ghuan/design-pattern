@@ -20,6 +20,7 @@
 - 16.[责任链模式 (Chain of Responsibility Pattern)](src/com/example/behavior/responsibility/README.md)
 - 17.[策略模式 (Strategy Pattern)](src/com/example/behavior/strategy/README.md)
 - 18.[状态模式 (State Pattern)](src/com/example/behavior/state/README.md)
+- 19.[备忘录模式 (Memento Pattern)](src/com/example/behavior/memento/README.md)
 - 待续
 
 
