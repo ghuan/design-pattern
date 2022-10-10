@@ -18,7 +18,8 @@
 - 14.[模板方法模式 (Template Method Pattern)](src/com/example/behavior/template/README.md)
 - 15.[迭代器模式 (Iterator Pattern)](src/com/example/behavior/iterator/README.md)
 - 16.[责任链模式 (Chain of Responsibility Pattern)](src/com/example/behavior/responsibility/README.md)
-- 16.[策略模式 (Strategy Pattern)](src/com/example/behavior/strategy/README.md)
+- 17.[策略模式 (Strategy Pattern)](src/com/example/behavior/strategy/README.md)
+- 18.[状态模式 (State Pattern)](src/com/example/behavior/state/README.md)
 - 待续
 
 
