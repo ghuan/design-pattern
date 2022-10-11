@@ -1,7 +1,5 @@
 package com.example.structure.flyweight;
 
-import com.example.structure.flyweight.bean.Circle;
-import com.example.structure.flyweight.bean.Shape;
 import com.example.structure.flyweight.enums.ColorEnum;
 
 import java.util.HashMap;

@@ -1,6 +1,5 @@
 package com.example.create.prototype;
 
-import com.example.create.prototype.bean.Car;
 import com.example.create.prototype.enums.CarTypeEnum;
 
 import java.util.Map;

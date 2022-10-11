@@ -1,7 +1,5 @@
 package com.example.behavior.command;
 
-import com.example.behavior.command.bean.Command;
-
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;

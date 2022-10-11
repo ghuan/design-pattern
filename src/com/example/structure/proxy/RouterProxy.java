@@ -1,8 +1,5 @@
 package com.example.structure.proxy;
 
-import com.example.structure.proxy.bean.Internet;
-import com.example.structure.proxy.bean.Modem;
-
 /**
  * 路由器-调制解调器代理类
  *

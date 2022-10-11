@@ -1,10 +1,5 @@
 package com.example.structure.decorator;
 
-import com.example.structure.decorator.bean.BlueWriterDecorator;
-import com.example.structure.decorator.bean.Pen;
-import com.example.structure.decorator.bean.Pencil;
-import com.example.structure.decorator.bean.RedWriterDecorator;
-
 /**
  * 装饰器模式：允许向一个现有的对象添加新的功能，同时又不改变其结构
  * 测试

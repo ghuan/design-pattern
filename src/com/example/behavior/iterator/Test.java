@@ -1,7 +1,5 @@
 package com.example.behavior.iterator;
 
-import com.example.behavior.iterator.bean.DriveRecorder;
-
 import java.util.Arrays;
 import java.util.Iterator;
 

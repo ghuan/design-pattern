@@ -1,7 +1,5 @@
 package com.example.create.factory.abstract_factory;
 
-import com.example.create.factory.abstract_factory.bean.*;
-
 /**
  * 兽人兵工厂类
  *

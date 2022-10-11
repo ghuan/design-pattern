@@ -1,7 +1,5 @@
 package com.example.behavior.command;
 
-import com.example.behavior.command.bean.*;
-
 import java.util.Arrays;
 
 /**

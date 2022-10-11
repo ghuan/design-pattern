@@ -1,10 +1,5 @@
 package com.example.create.builder;
 
-import com.example.create.builder.bean.ChickenBurge;
-import com.example.create.builder.bean.Coke;
-import com.example.create.builder.bean.Pepsi;
-import com.example.create.builder.bean.VegBurger;
-
 /**
  * 菜单构建器
  *

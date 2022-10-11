@@ -1,7 +1,7 @@
 package com.example.create.factory.simple_factory.enums;
 
-import com.example.create.factory.simple_factory.bean.AUDICar;
-import com.example.create.factory.simple_factory.bean.BMWCar;
+import com.example.create.factory.simple_factory.AUDICar;
+import com.example.create.factory.simple_factory.BMWCar;
 
 public enum CarTypeEnum {
 

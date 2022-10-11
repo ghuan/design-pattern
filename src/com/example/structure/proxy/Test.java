@@ -1,7 +1,5 @@
 package com.example.structure.proxy;
 
-import com.example.structure.proxy.bean.Internet;
-
 import java.lang.reflect.Proxy;
 
 /**

@@ -1,9 +1,5 @@
 package com.example.create.factory.factory_method;
 
-import com.example.create.factory.factory_method.bean.Animal;
-import com.example.create.factory.factory_method.bean.Cat;
-import com.example.create.factory.factory_method.bean.Mouse;
-
 /**
  * 猫创建工厂
  *

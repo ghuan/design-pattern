@@ -1,6 +1,5 @@
 package com.example.create.factory.simple_factory;
 
-import com.example.create.factory.simple_factory.bean.Car;
 import com.example.create.factory.simple_factory.enums.CarTypeEnum;
 
 /**

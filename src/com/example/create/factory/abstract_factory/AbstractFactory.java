@@ -1,9 +1,5 @@
 package com.example.create.factory.abstract_factory;
 
-import com.example.create.factory.abstract_factory.bean.HighSoldier;
-import com.example.create.factory.abstract_factory.bean.LowSoldier;
-import com.example.create.factory.abstract_factory.bean.MidSoldier;
-
 /**
  * 基础工厂类
  *

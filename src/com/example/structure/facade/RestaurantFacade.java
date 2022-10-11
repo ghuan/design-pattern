@@ -1,8 +1,5 @@
 package com.example.structure.facade;
 
-import com.example.structure.facade.bean.Chef;
-import com.example.structure.facade.bean.Waiter;
-
 /**
  * 餐馆外观类
  */

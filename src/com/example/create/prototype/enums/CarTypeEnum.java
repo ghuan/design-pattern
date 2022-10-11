@@ -1,8 +1,8 @@
 package com.example.create.prototype.enums;
 
 
-import com.example.create.prototype.bean.AUDICar;
-import com.example.create.prototype.bean.BMWCar;
+import com.example.create.prototype.AUDICar;
+import com.example.create.prototype.BMWCar;
 
 public enum CarTypeEnum {
 
