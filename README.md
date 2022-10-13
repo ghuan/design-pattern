@@ -24,6 +24,7 @@
 - 20.[中介者模式 (Mediator Pattern)](src/com/example/behavior/mediator/README.md)
 - 21.[命令模式 (Command Pattern)](src/com/example/behavior/command/README.md)
 - 22.[访问者模式 (Visitor Pattern)](src/com/example/behavior/visitor/README.md)
+- 22.[观察者模式 (Observer Pattern)](src/com/example/behavior/observer/README.md)
 - 待续
 
 
