@@ -44,6 +44,7 @@ public class House {
         this.window = window;
     }
 
+    @Override
     public String toString(){
         return "地基："+this.foundation+"\n墙体："+this.wall+"\n屋顶："+this.roof+"\n窗户："+this.window;
     }
