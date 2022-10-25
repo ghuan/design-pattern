@@ -8,7 +8,7 @@ package com.example.create.builder;
  */
 public class Test {
     public static void main(String[] args) {
-        MealBuilder.createVegMeal().list();
-        MealBuilder.createNoVegMeal().list();
+        HouseDirectory houseDirectory = new HouseDirectory(new StoneHouseBuilder());
+        System.out.println(houseDirectory.getHouse().toString());
     }
 }
